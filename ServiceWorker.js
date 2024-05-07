@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Roleta Glicemica-1.0";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/Roleta_Glicemica_Build_Test.loader.js",
+    "Build/Roleta_Glicemica_Build_Test.framework.js",
+    "Build/Roleta_Glicemica_Build_Test.data",
+    "Build/Roleta_Glicemica_Build_Test.wasm",
     "TemplateData/style.css"
 
 ];
